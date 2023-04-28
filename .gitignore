@@ -1,0 +1,5 @@
+lab.class
+HelloJava.java
+*.class
+!file.class
+new.txt
